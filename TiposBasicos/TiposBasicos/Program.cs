@@ -56,6 +56,7 @@ namespace TiposBasicos
             Console.WriteLine(nome);
             Console.WriteLine(int.MinValue);
             #endregion
+
         }
     }
 }
