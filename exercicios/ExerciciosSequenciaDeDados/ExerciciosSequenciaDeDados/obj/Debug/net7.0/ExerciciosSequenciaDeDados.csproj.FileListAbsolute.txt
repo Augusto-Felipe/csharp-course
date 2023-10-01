@@ -1,0 +1,14 @@
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\exercicios\ExerciciosSequenciaDeDados\ExerciciosSequenciaDeDados\bin\Debug\net7.0\ExerciciosSequenciaDeDados.exe
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\exercicios\ExerciciosSequenciaDeDados\ExerciciosSequenciaDeDados\bin\Debug\net7.0\ExerciciosSequenciaDeDados.deps.json
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\exercicios\ExerciciosSequenciaDeDados\ExerciciosSequenciaDeDados\bin\Debug\net7.0\ExerciciosSequenciaDeDados.runtimeconfig.json
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\exercicios\ExerciciosSequenciaDeDados\ExerciciosSequenciaDeDados\bin\Debug\net7.0\ExerciciosSequenciaDeDados.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\exercicios\ExerciciosSequenciaDeDados\ExerciciosSequenciaDeDados\bin\Debug\net7.0\ExerciciosSequenciaDeDados.pdb
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\exercicios\ExerciciosSequenciaDeDados\ExerciciosSequenciaDeDados\obj\Debug\net7.0\ExerciciosSequenciaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\exercicios\ExerciciosSequenciaDeDados\ExerciciosSequenciaDeDados\obj\Debug\net7.0\ExerciciosSequenciaDeDados.AssemblyInfoInputs.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\exercicios\ExerciciosSequenciaDeDados\ExerciciosSequenciaDeDados\obj\Debug\net7.0\ExerciciosSequenciaDeDados.AssemblyInfo.cs
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\exercicios\ExerciciosSequenciaDeDados\ExerciciosSequenciaDeDados\obj\Debug\net7.0\ExerciciosSequenciaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\exercicios\ExerciciosSequenciaDeDados\ExerciciosSequenciaDeDados\obj\Debug\net7.0\ExerciciosSequenciaDeDados.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\exercicios\ExerciciosSequenciaDeDados\ExerciciosSequenciaDeDados\obj\Debug\net7.0\refint\ExerciciosSequenciaDeDados.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\exercicios\ExerciciosSequenciaDeDados\ExerciciosSequenciaDeDados\obj\Debug\net7.0\ExerciciosSequenciaDeDados.pdb
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\exercicios\ExerciciosSequenciaDeDados\ExerciciosSequenciaDeDados\obj\Debug\net7.0\ExerciciosSequenciaDeDados.genruntimeconfig.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\exercicios\ExerciciosSequenciaDeDados\ExerciciosSequenciaDeDados\obj\Debug\net7.0\ref\ExerciciosSequenciaDeDados.dll
