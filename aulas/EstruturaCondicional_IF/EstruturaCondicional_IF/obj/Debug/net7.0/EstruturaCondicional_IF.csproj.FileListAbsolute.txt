@@ -1,0 +1,14 @@
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\EstruturaCondicional_IF\EstruturaCondicional_IF\bin\Debug\net7.0\EstruturaCondicional_IF.exe
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\EstruturaCondicional_IF\EstruturaCondicional_IF\bin\Debug\net7.0\EstruturaCondicional_IF.deps.json
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\EstruturaCondicional_IF\EstruturaCondicional_IF\bin\Debug\net7.0\EstruturaCondicional_IF.runtimeconfig.json
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\EstruturaCondicional_IF\EstruturaCondicional_IF\bin\Debug\net7.0\EstruturaCondicional_IF.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\EstruturaCondicional_IF\EstruturaCondicional_IF\bin\Debug\net7.0\EstruturaCondicional_IF.pdb
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\EstruturaCondicional_IF\EstruturaCondicional_IF\obj\Debug\net7.0\EstruturaCondicional_IF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\EstruturaCondicional_IF\EstruturaCondicional_IF\obj\Debug\net7.0\EstruturaCondicional_IF.AssemblyInfoInputs.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\EstruturaCondicional_IF\EstruturaCondicional_IF\obj\Debug\net7.0\EstruturaCondicional_IF.AssemblyInfo.cs
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\EstruturaCondicional_IF\EstruturaCondicional_IF\obj\Debug\net7.0\EstruturaCondicional_IF.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\EstruturaCondicional_IF\EstruturaCondicional_IF\obj\Debug\net7.0\EstruturaCondicional_IF.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\EstruturaCondicional_IF\EstruturaCondicional_IF\obj\Debug\net7.0\refint\EstruturaCondicional_IF.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\EstruturaCondicional_IF\EstruturaCondicional_IF\obj\Debug\net7.0\EstruturaCondicional_IF.pdb
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\EstruturaCondicional_IF\EstruturaCondicional_IF\obj\Debug\net7.0\EstruturaCondicional_IF.genruntimeconfig.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\EstruturaCondicional_IF\EstruturaCondicional_IF\obj\Debug\net7.0\ref\EstruturaCondicional_IF.dll
