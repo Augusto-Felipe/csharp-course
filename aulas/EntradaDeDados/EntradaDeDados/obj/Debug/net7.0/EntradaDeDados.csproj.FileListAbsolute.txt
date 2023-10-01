@@ -1,0 +1,14 @@
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\EntradaDeDados\EntradaDeDados\bin\Debug\net7.0\EntradaDeDados.exe
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\EntradaDeDados\EntradaDeDados\bin\Debug\net7.0\EntradaDeDados.deps.json
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\EntradaDeDados\EntradaDeDados\bin\Debug\net7.0\EntradaDeDados.runtimeconfig.json
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\EntradaDeDados\EntradaDeDados\bin\Debug\net7.0\EntradaDeDados.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\EntradaDeDados\EntradaDeDados\bin\Debug\net7.0\EntradaDeDados.pdb
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\EntradaDeDados\EntradaDeDados\obj\Debug\net7.0\EntradaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\EntradaDeDados\EntradaDeDados\obj\Debug\net7.0\EntradaDeDados.AssemblyInfoInputs.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\EntradaDeDados\EntradaDeDados\obj\Debug\net7.0\EntradaDeDados.AssemblyInfo.cs
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\EntradaDeDados\EntradaDeDados\obj\Debug\net7.0\EntradaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\EntradaDeDados\EntradaDeDados\obj\Debug\net7.0\EntradaDeDados.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\EntradaDeDados\EntradaDeDados\obj\Debug\net7.0\refint\EntradaDeDados.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\EntradaDeDados\EntradaDeDados\obj\Debug\net7.0\EntradaDeDados.pdb
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\EntradaDeDados\EntradaDeDados\obj\Debug\net7.0\EntradaDeDados.genruntimeconfig.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\EntradaDeDados\EntradaDeDados\obj\Debug\net7.0\ref\EntradaDeDados.dll
