@@ -1,0 +1,14 @@
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\exercicios\ExercicioDeFixacao2\ExercicioDeFixacao2\bin\Debug\net7.0\ExercicioDeFixacao2.exe
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\exercicios\ExercicioDeFixacao2\ExercicioDeFixacao2\bin\Debug\net7.0\ExercicioDeFixacao2.deps.json
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\exercicios\ExercicioDeFixacao2\ExercicioDeFixacao2\bin\Debug\net7.0\ExercicioDeFixacao2.runtimeconfig.json
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\exercicios\ExercicioDeFixacao2\ExercicioDeFixacao2\bin\Debug\net7.0\ExercicioDeFixacao2.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\exercicios\ExercicioDeFixacao2\ExercicioDeFixacao2\bin\Debug\net7.0\ExercicioDeFixacao2.pdb
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\exercicios\ExercicioDeFixacao2\ExercicioDeFixacao2\obj\Debug\net7.0\ExercicioDeFixacao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\exercicios\ExercicioDeFixacao2\ExercicioDeFixacao2\obj\Debug\net7.0\ExercicioDeFixacao2.AssemblyInfoInputs.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\exercicios\ExercicioDeFixacao2\ExercicioDeFixacao2\obj\Debug\net7.0\ExercicioDeFixacao2.AssemblyInfo.cs
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\exercicios\ExercicioDeFixacao2\ExercicioDeFixacao2\obj\Debug\net7.0\ExercicioDeFixacao2.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\exercicios\ExercicioDeFixacao2\ExercicioDeFixacao2\obj\Debug\net7.0\ExercicioDeFixacao2.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\exercicios\ExercicioDeFixacao2\ExercicioDeFixacao2\obj\Debug\net7.0\refint\ExercicioDeFixacao2.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\exercicios\ExercicioDeFixacao2\ExercicioDeFixacao2\obj\Debug\net7.0\ExercicioDeFixacao2.pdb
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\exercicios\ExercicioDeFixacao2\ExercicioDeFixacao2\obj\Debug\net7.0\ExercicioDeFixacao2.genruntimeconfig.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\exercicios\ExercicioDeFixacao2\ExercicioDeFixacao2\obj\Debug\net7.0\ref\ExercicioDeFixacao2.dll

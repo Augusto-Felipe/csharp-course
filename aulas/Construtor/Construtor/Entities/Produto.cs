@@ -4,20 +4,36 @@ namespace Construtor.Entities
 {
     internal class Produto
     {
-        public string Nome;
-        public double Preco;
-        public int Quantidade;
+        private string _nome;
+        public double Preco { get; private set; }
+        public int Quantidade { get; private set; }
 
         public Produto()
         {
-
+            Quantidade = 5;
         }
 
-        public Produto(string nome, double preco, int quantidade)
+        public Produto(string nome, double preco) : this()
         {
-            Nome = nome;
+            _nome = nome;
             Preco = preco;
+        }
+
+        public Produto(string nome, double preco, int quantidade) : this(nome, preco)
+        {
             Quantidade = quantidade;
+        }
+
+        public string Nome
+        {
+            get { return _nome; }
+            set
+            {
+                if (value != null && value.Length > 1)
+                {
+                    _nome = value;
+                }
+            }
         }
 
         public double ValorTotalEmEstoque()
@@ -37,7 +53,7 @@ namespace Construtor.Entities
 
         public override string ToString()
         {
-            return Nome
+            return _nome
                 + ", $"
                 + Preco.ToString("F2", CultureInfo.InvariantCulture)
                 + ", "
@@ -45,6 +61,5 @@ namespace Construtor.Entities
                 + " unidades, Total: $"
                 + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
         }
-
     }
 }
