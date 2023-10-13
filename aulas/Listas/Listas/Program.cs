@@ -1,9 +1,14 @@
-﻿namespace Listas
+﻿using Listas.Entities;
+using System.Globalization;
+
+namespace Listas
 {
     internal class Program
     {
         static void Main(string[] args)
         {
+            #region Aula
+            /*
             // Declarando e instanciando nova lista vazia
             List<string> lista = new List<string>();
 
@@ -46,6 +51,46 @@
             {
                 Console.WriteLine(name);
             }
+            */
+            #endregion
+
+            #region Exercicio de Fixação
+
+            Company company = new Company();
+
+            Console.Write("How many employess will be registered? ");
+            int n = int.Parse(Console.ReadLine());
+
+            for (int i = 0; i < n; i++)
+            {
+                Console.WriteLine($"Employee #{i+1}: ");
+                Console.Write("Id: ");
+                int id = int.Parse(Console.ReadLine());
+                Console.Write("Name: ");
+                string name = Console.ReadLine();
+                Console.Write("Salary: ");
+                double salary = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+                company.EmployeeList.Add(new Employee(id, name, salary));
+
+                Console.WriteLine();
+            }
+
+            Console.Write("Enter the employee id that will have salary increase: ");
+            int idIncrease = int.Parse(Console.ReadLine());
+
+            Console.Write("Enter the percentage: ");
+            double percentage = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            company.IncreaseSalary(idIncrease, percentage);
+
+            Console.WriteLine();
+            Console.WriteLine("Updated list of employees: ");
+            foreach (var employee in company.EmployeeList)
+            {
+                Console.WriteLine($"{employee.ID}, {employee.Name}, {employee.Salary.ToString("F2", CultureInfo.InvariantCulture)}");
+            }
+            #endregion
         }
     }
 }
