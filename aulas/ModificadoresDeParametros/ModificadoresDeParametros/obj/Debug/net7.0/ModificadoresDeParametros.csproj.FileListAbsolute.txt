@@ -1,0 +1,14 @@
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\ModificadoresDeParametros\ModificadoresDeParametros\bin\Debug\net7.0\ModificadoresDeParametros.exe
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\ModificadoresDeParametros\ModificadoresDeParametros\bin\Debug\net7.0\ModificadoresDeParametros.deps.json
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\ModificadoresDeParametros\ModificadoresDeParametros\bin\Debug\net7.0\ModificadoresDeParametros.runtimeconfig.json
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\ModificadoresDeParametros\ModificadoresDeParametros\bin\Debug\net7.0\ModificadoresDeParametros.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\ModificadoresDeParametros\ModificadoresDeParametros\bin\Debug\net7.0\ModificadoresDeParametros.pdb
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\ModificadoresDeParametros\ModificadoresDeParametros\obj\Debug\net7.0\ModificadoresDeParametros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\ModificadoresDeParametros\ModificadoresDeParametros\obj\Debug\net7.0\ModificadoresDeParametros.AssemblyInfoInputs.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\ModificadoresDeParametros\ModificadoresDeParametros\obj\Debug\net7.0\ModificadoresDeParametros.AssemblyInfo.cs
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\ModificadoresDeParametros\ModificadoresDeParametros\obj\Debug\net7.0\ModificadoresDeParametros.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\ModificadoresDeParametros\ModificadoresDeParametros\obj\Debug\net7.0\ModificadoresDeParametros.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\ModificadoresDeParametros\ModificadoresDeParametros\obj\Debug\net7.0\refint\ModificadoresDeParametros.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\ModificadoresDeParametros\ModificadoresDeParametros\obj\Debug\net7.0\ModificadoresDeParametros.pdb
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\ModificadoresDeParametros\ModificadoresDeParametros\obj\Debug\net7.0\ModificadoresDeParametros.genruntimeconfig.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\ModificadoresDeParametros\ModificadoresDeParametros\obj\Debug\net7.0\ref\ModificadoresDeParametros.dll
