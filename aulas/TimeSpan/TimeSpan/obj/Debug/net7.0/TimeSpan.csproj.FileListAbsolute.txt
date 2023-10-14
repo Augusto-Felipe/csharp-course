@@ -1,0 +1,14 @@
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\TimeSpan\TimeSpan\bin\Debug\net7.0\TimeSpan.exe
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\TimeSpan\TimeSpan\bin\Debug\net7.0\TimeSpan.deps.json
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\TimeSpan\TimeSpan\bin\Debug\net7.0\TimeSpan.runtimeconfig.json
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\TimeSpan\TimeSpan\bin\Debug\net7.0\TimeSpan.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\TimeSpan\TimeSpan\bin\Debug\net7.0\TimeSpan.pdb
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\TimeSpan\TimeSpan\obj\Debug\net7.0\TimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\TimeSpan\TimeSpan\obj\Debug\net7.0\TimeSpan.AssemblyInfoInputs.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\TimeSpan\TimeSpan\obj\Debug\net7.0\TimeSpan.AssemblyInfo.cs
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\TimeSpan\TimeSpan\obj\Debug\net7.0\TimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\TimeSpan\TimeSpan\obj\Debug\net7.0\TimeSpan.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\TimeSpan\TimeSpan\obj\Debug\net7.0\refint\TimeSpan.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\TimeSpan\TimeSpan\obj\Debug\net7.0\TimeSpan.pdb
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\TimeSpan\TimeSpan\obj\Debug\net7.0\TimeSpan.genruntimeconfig.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\csharp-course\aulas\TimeSpan\TimeSpan\obj\Debug\net7.0\ref\TimeSpan.dll
